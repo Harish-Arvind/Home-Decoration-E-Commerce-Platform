@@ -1,5 +1,3 @@
-# Home-Decoration-E-Commerce-Platform
-
 # **🏡 Home Decoration E-Commerce Platform**  
 
 ## **Tech Stack:**  
