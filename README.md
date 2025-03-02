@@ -21,18 +21,18 @@ This is a **full-stack Home Decoration E-Commerce Platform** that allows users t
 ## **🚀 Installation & Setup**  
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-username/home-decoration-ecommerce.git
-   cd home-decoration-ecommerce
+   git clone https://github.com/Harish-Arvind/Home-Decoration-E-Commerce-Platform.git
+   cd web_project_poland-main
    ```  
 2. **Backend Setup**  
    ```bash
-   cd backend  
+   cd WebServer  
    npm install  
    npm start  
    ```  
 3. **Frontend Setup**  
    ```bash
-   cd frontend  
+   cd home_decoration_page  
    npm install  
    npm run serve  
    ```  
