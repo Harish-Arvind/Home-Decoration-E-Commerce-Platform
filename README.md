@@ -39,4 +39,4 @@ This is a **full-stack Home Decoration E-Commerce Platform** that allows users t
    - Run migrations using Sequelize  
 
 ## **📜 License**  
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/Harish-Arvind/Home-Decoration-E-Commerce-Platform/blob/main/web_project_poland-main/LICENSE) file for details. 
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Harish-Arvind/Home-Decoration-E-Commerce-Platform/blob/main/LICENSE) file for details. 
